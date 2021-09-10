@@ -3,7 +3,7 @@
 ![Alt text](screenshot.png?raw=true "Screenshot")
 
 ## About:
-A boilerplate Laravel 8 app set up with Bootstrap, VueJS and a custom template with responsive side and top menu bars. 
+A boilerplate Laravel 8 app set up with Bootstrap 5, VueJS 2 and a custom template with responsive/collapsable side and top menus. 
 
 ## Bundled With:
 
@@ -20,8 +20,7 @@ A boilerplate Laravel 8 app set up with Bootstrap, VueJS and a custom template w
 - Setup your .env file
 - 🎉 Build something great on top of it!
 
-## Thanks to
-- [StartBootstrap - Simple Sidebar](https://startbootstrap.com/template/simple-sidebar)
+Thanks to: [StartBootstrap - Simple Sidebar](https://github.com/startbootstrap/startbootstrap-simple-sidebar)
 
 ---
 ### <p align='center'> Murilo M. Barreto @ 2021  </p>
